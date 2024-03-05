@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Elaa Mhamdi</h1>
-<h3 align="center">A passionate software developper and engineering student from Tunisia</h3>
+<h3 align="center">A passionate software developer and engineering student from Tunisia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elaa2&label=Profile%20views&color=0e75b6&style=flat" alt="elaa2" /> </p>
+<img align="right" alt="Hello" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*yBvA5CnEX3Sd4aod.gif">
 
-- 🌱 I’m currently learning **Angular, NodeJs**
-
+- 🌱 I’m currently learning **everything about full-stack**
+  
 - 📫 How to reach me **elaa.mhamdi2020@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1sXadSmbeG8lqpkHgDFvpCWmyYUDjNXhc/view?usp=drive_link](https://drive.google.com/file/d/1sXadSmbeG8lqpkHgDFvpCWmyYUDjNXhc/view?usp=drive_link)
